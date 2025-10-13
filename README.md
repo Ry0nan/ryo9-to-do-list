@@ -1,2 +1,2 @@
-# ryo9-webpack-boilerplate
-My boilerplate template for my personal web projects.
+# ryo9-to-do-list
+Ryo9 to-do-list web app
